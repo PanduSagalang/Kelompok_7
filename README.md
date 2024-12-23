@@ -29,7 +29,7 @@ Kami berharap repository ini dapat membantu dalam memahami proyek kami secara ke
 ## 🚀 Cara Menggunakan
 1. Clone repository ini ke lokal:
    ```bash
-   git clone https://github.com/PanduSagalang/Kelompok-7-Basis-Data
+   git clone https://github.com/PanduSagalang/Kelompok_7
 2. Buka file dokumen di folder Dokumen.
 3. Ikuti manual penggunaan sistem untuk informasi lebih lanjut.
 0 commit comments
