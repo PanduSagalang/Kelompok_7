@@ -1,5 +1,5 @@
 Kelompok 7
-## 📂 Daftar Isi Folder
+## 📂 Proyek Pengembangan Basis Data Toko Elektronik
 - Dokumen 
   - 📘 Dokumentasi awal basis data_Kelompok 7.docx
   - 📙 Laporan Akhir Kelompok 7.docx
