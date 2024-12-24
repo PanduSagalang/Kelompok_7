@@ -9,10 +9,9 @@ Kelompok 7
 ---
 ## 🤝 Kolaborator
 | Nama Kolaborator | GitHub Profile |
-|----------~---------|----------------|
 
   🌐 https://github.com/BimoET 
--~--
+
 ## 📝 Deskripsi
 Repository ini adalah hasil kolaborasi Kelompok 7 untuk Tugas UAS.  
 Berisi:
